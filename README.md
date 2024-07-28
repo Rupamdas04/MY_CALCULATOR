@@ -1,4 +1,4 @@
-My Calculator
+**My Calculator**
 A simple and functional web-based calculator built with HTML, CSS, and JavaScript. This calculator supports basic arithmetic operations and provides a clear and user-friendly interface.
 
 Features
